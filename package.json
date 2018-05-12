@@ -1,0 +1,17 @@
+{
+  "name": "node-ssh-runner",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafał Rudol <rrrrudol@gmail.com>",
+  "bin": {
+    "swarm": "cli.js"
+  },
+  "dependencies": {
+    "node-ssh": "^5.1.1"
+  }
+}
